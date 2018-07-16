@@ -1,0 +1,15 @@
+#signout:hover {
+  cursor: pointer;
+}
+
+.li-howitworks {
+  float:left;
+  display:inline;
+  padding: 50px;
+  border: 2px solid #999;
+  border-radius: 4px;
+}
+
+.icon-border {
+
+}
